@@ -8,7 +8,7 @@ Full Stack Flipkart Clone Using LAMP Stack
 
 - OTP Email Verified Signup
 - Login, Signup & Logout
-- AJAX Requests
+- AJAX Request
 - Wishlist Add or Remove Products
 - Cart Add or Remove Products
 - Save For Later Products
